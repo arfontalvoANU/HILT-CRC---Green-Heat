@@ -10,9 +10,9 @@ import platform
 
 ## TODO
 # setup basedir
-basedir = '/media/yewang/Data/Work/Research/Topics/yewang/HILTCRC/repo' 
+basedir = '/home/arfontalvo/PROJECTS/HILT-CRC-green-heat/' 
 
-hilt_svn_repo='/media/yewang/Data/Work/Research/Topics/svn-hilt'
+hilt_svn_repo='/home/arfontalvo/PROJECTS/HILT-CRC-green-heat/'
 wea_repo= hilt_svn_repo+'/weather/TMY DATA for H2 HUBS/'
 
 if platform.system()=="Windows":
